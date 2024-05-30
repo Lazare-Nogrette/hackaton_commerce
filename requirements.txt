@@ -1,0 +1,6 @@
+streamlit~=1.35.0
+scikit-learn
+pandas
+streamlit_local_storage
+streamlit_extras
+streamlit-aggrid
